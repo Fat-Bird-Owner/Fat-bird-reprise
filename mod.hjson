@@ -1,8 +1,8 @@
 // file name very used in logic like template-block.
-name: "template"
+name: "fb"
 
-displayName: "Mod Template"
-repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
+displayName: "Fat Bird: Reprise"
+repo: "Fat-Bird-Owner/Fat-bird-reprise"
 subtitle: ""
 author: ""
 
